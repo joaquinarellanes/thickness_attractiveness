@@ -1,6 +1,6 @@
 # Thickness and Attractiveness: A Weighted Analysis
 
 ## Overview
-This repository contains the necessary data, tools, and documentation for the thickness-to-attractiveness project.
+Which is the optimal thickness that women find attractive in men? This project aims to find the answer.
 
 ## Data
